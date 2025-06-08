@@ -44,6 +44,7 @@ Next.js, React, TypeScript, Node.js, OpenAI API, Terraform, AWS (Lambda, API Gat
                   |  S3    |    | Lambda |           | API Gateway |
                   +--------+    +--------+           +-------------+
 ```
+![Alt text](/home/main-arc-img.png "아키텍트")
 
 ### 🔗 링크
 - [🔗 GitHub Repository](https://github.com/kenneth-kang/infra-ai-creator)
